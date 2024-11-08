@@ -1,0 +1,7 @@
+/* Estilo para el footer */
+  .footer {
+    background-color: #f8f9fa; /* Color de fondo similar al navbar */
+    padding: 20px 0;
+    text-align: center;
+    border-top: 1px solid #ddd; /* Línea superior para separar */
+  }
